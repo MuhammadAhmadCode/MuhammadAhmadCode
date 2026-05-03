@@ -283,7 +283,7 @@ If you need a developer who will **show up, figure it out, and get it done** —
 <br/>
 
 **If you made it this far — let's talk.** &nbsp; [ma2565983@gmail.com](mailto:ma2565983@gmail.com)
-
+![Snake](https://raw.githubusercontent.com/MuhammadAhmadCode/MuhammadAhmadCode/output/github-contribution-grid-snake-dark.svg)
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,70:2d1065,100:0a0a0f&height=140&section=footer&text=Building%20from%20Pakistan.%20Shipping%20for%20the%20world.&fontSize=18&fontColor=a78bfa&animation=fadeIn&fontAlignY=65" />
