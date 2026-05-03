@@ -19,7 +19,7 @@ const ahmad = {
   learning: "self-taught — no bootcamp, just the internet + late nights",
   stack: ["MongoDB", "Express.js", "React", "Node.js"],
   currentlyLearning: ["TypeScript", "Advanced Backend Patterns"],
-  funFact: "Most people my age watch tutorials. I ship products.",
+  funFact: "It works on localhost… production is where things get interesting.",
   openTo: ["Freelance Projects", "Collaborations", "Internships"],
 };
 ```
